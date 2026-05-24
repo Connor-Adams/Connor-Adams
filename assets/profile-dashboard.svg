@@ -1,0 +1,51 @@
+<svg width="920" height="310" viewBox="0 0 920 310" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Connor Adams profile dashboard</title>
+  <desc id="desc">A dashboard summarizing product engineering focus areas: product systems, automation, developer experience, mobile, and data.</desc>
+  <rect width="920" height="310" rx="24" fill="#0D1117"/>
+  <rect x="1" y="1" width="918" height="308" rx="23" stroke="#30363D"/>
+
+  <text x="36" y="54" fill="#F0F6FC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="26" font-weight="700">Systems I like building</text>
+  <text x="36" y="82" fill="#8B949E" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14">Product surfaces, internal tools, automation, and the glue that makes teams move faster.</text>
+
+  <g transform="translate(36 116)">
+    <rect width="258" height="68" rx="16" fill="#161B22" stroke="#30363D"/>
+    <circle cx="34" cy="34" r="13" fill="#58A6FF"/>
+    <text x="58" y="30" fill="#F0F6FC" font-family="Inter, ui-sans-serif, system-ui" font-size="15" font-weight="700">Product systems</text>
+    <text x="58" y="50" fill="#8B949E" font-family="Inter, ui-sans-serif, system-ui" font-size="12">Full-stack features and workflows</text>
+  </g>
+
+  <g transform="translate(331 116)">
+    <rect width="258" height="68" rx="16" fill="#161B22" stroke="#30363D"/>
+    <circle cx="34" cy="34" r="13" fill="#A371F7"/>
+    <text x="58" y="30" fill="#F0F6FC" font-family="Inter, ui-sans-serif, system-ui" font-size="15" font-weight="700">Automation</text>
+    <text x="58" y="50" fill="#8B949E" font-family="Inter, ui-sans-serif, system-ui" font-size="12">Ops tools, jobs, and pipelines</text>
+  </g>
+
+  <g transform="translate(626 116)">
+    <rect width="258" height="68" rx="16" fill="#161B22" stroke="#30363D"/>
+    <circle cx="34" cy="34" r="13" fill="#3FB950"/>
+    <text x="58" y="30" fill="#F0F6FC" font-family="Inter, ui-sans-serif, system-ui" font-size="15" font-weight="700">Developer experience</text>
+    <text x="58" y="50" fill="#8B949E" font-family="Inter, ui-sans-serif, system-ui" font-size="12">Clean repos, CI/CD, typed APIs</text>
+  </g>
+
+  <g transform="translate(36 206)">
+    <rect width="258" height="68" rx="16" fill="#161B22" stroke="#30363D"/>
+    <circle cx="34" cy="34" r="13" fill="#F78166"/>
+    <text x="58" y="30" fill="#F0F6FC" font-family="Inter, ui-sans-serif, system-ui" font-size="15" font-weight="700">Mobile</text>
+    <text x="58" y="50" fill="#8B949E" font-family="Inter, ui-sans-serif, system-ui" font-size="12">Swift, SwiftUI, iOS/macOS</text>
+  </g>
+
+  <g transform="translate(331 206)">
+    <rect width="258" height="68" rx="16" fill="#161B22" stroke="#30363D"/>
+    <circle cx="34" cy="34" r="13" fill="#D2A8FF"/>
+    <text x="58" y="30" fill="#F0F6FC" font-family="Inter, ui-sans-serif, system-ui" font-size="15" font-weight="700">Data products</text>
+    <text x="58" y="50" fill="#8B949E" font-family="Inter, ui-sans-serif, system-ui" font-size="12">Dashboards, health, finance, signals</text>
+  </g>
+
+  <g transform="translate(626 206)">
+    <rect width="258" height="68" rx="16" fill="#161B22" stroke="#30363D"/>
+    <circle cx="34" cy="34" r="13" fill="#F2CC60"/>
+    <text x="58" y="30" fill="#F0F6FC" font-family="Inter, ui-sans-serif, system-ui" font-size="15" font-weight="700">Experiments</text>
+    <text x="58" y="50" fill="#8B949E" font-family="Inter, ui-sans-serif, system-ui" font-size="12">Discord audio, LLMs, weird ideas</text>
+  </g>
+</svg>
