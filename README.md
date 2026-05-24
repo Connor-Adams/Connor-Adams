@@ -1,7 +1,7 @@
 <h1 align="center">Connor Adams</h1>
 
 <p align="center">
-  <strong>Product engineer building full-stack systems, automation, and tools that remove operational pain.</strong>
+  <strong>Product engineer building full-stack systems, polished interfaces, automation, and tools that remove operational pain.</strong>
 </p>
 
 <p align="center">
@@ -13,25 +13,31 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Product%20Engineer-TypeScript%20%2B%20Swift-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Visual%20Taste-Product%20Craft-F59E0B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Full--stack%20systems-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Building-Cashflow-10B981?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="./assets/profile-dashboard.svg" alt="Connor Adams profile dashboard" />
+  <img src="./assets/product-craft.svg" alt="Product craft dashboard" />
 </p>
 
 ---
 
 I work close to the product, find the real failure mode, and build the system that prevents the same problem from coming back.
 
-My favorite work sits where product, engineering, operations, and automation overlap: the messy middle where a good system saves everyone time.
+I put a strong emphasis on the visual layer of a product: hierarchy, spacing, interaction polish, data clarity, and whether the thing actually feels good to use. I care about the full path from database shape to button placement.
+
+<p align="center">
+  <img src="./assets/profile-dashboard.svg" alt="Connor Adams profile dashboard" />
+</p>
 
 ## Core lanes
 
 | Area | What I like building |
 |---|---|
 | Product engineering | Full-stack features, workflow systems, customer-facing product surfaces |
+| Visual product craft | Clear hierarchy, polished UI, tasteful interactions, useful data views |
 | Internal tools | Admin flows, operational automation, dashboards, data pipelines |
 | Developer experience | Clean repos, CI/CD, deployment workflows, typed APIs, sane local setup |
 | Mobile | iOS/macOS apps with Swift and SwiftUI |
@@ -47,7 +53,7 @@ My favorite work sits where product, engineering, operations, and automation ove
       <ul>
         <li>TypeScript + React</li>
         <li>Product-focused UI</li>
-        <li>Foundation for richer personal and business finance workflows</li>
+        <li>Visual emphasis on clarity, hierarchy, and useful finance workflows</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -67,7 +73,7 @@ My favorite work sits where product, engineering, operations, and automation ove
       <ul>
         <li>Vite + React</li>
         <li>SEO-focused SPA setup</li>
-        <li>Production deployment workflow</li>
+        <li>Visual polish for a real-world business website</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -76,11 +82,17 @@ My favorite work sits where product, engineering, operations, and automation ove
       <ul>
         <li>Garmin data</li>
         <li>Aggregation and correlation ideas</li>
-        <li>Product planning for personal analytics</li>
+        <li>Turning raw signals into readable product surfaces</li>
       </ul>
     </td>
   </tr>
 </table>
+
+## Build loop
+
+<p align="center">
+  <img src="./assets/build-loop.svg" alt="Build loop: understand, design, ship, instrument, refine" />
+</p>
 
 ## Stack
 
@@ -99,6 +111,7 @@ TypeScript, React, Node.js, Swift, SwiftUI, PostgreSQL, Supabase, Prisma, Tailwi
 ## Current interests
 
 - Product engineering with high ownership
+- Polished interfaces and high-quality product feel
 - AI-assisted internal tooling
 - Personal finance systems
 - Health and data visualization
@@ -109,4 +122,4 @@ TypeScript, React, Node.js, Swift, SwiftUI, PostgreSQL, Supabase, Prisma, Tailwi
 
 > Build the root fix, not the band-aid.
 
-Make the product easier to operate. Make the next bug less likely. Make the system explain itself.
+Make the product easier to operate. Make the interface easier to understand. Make the next bug less likely. Make the system explain itself.
