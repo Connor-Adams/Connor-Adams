@@ -49,12 +49,18 @@ I care about the full path from database shape to button placement: product clar
 
 ## Stack
 
-**Frontend:** TypeScript, React, Next.js, Vite, Tailwind, React Hook Form, TanStack Query  
-**Backend:** Node.js, PostgreSQL, Supabase, Prisma, REST APIs  
-**Mobile:** Swift, SwiftUI, iOS, macOS  
-**Infra / delivery:** GitHub Actions, Vercel, Railway, Cloudflare, CI/CD, release workflows  
-**Data / workflows:** scraping, ingestion, dashboards, admin tools, data views, automation, operational systems  
-**Product surface area:** booking flows, cancellation/refund workflows, financial products, forms, internal tools, customer-facing experiences
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,nodejs,postgres,supabase,prisma,swift,githubactions,vercel,cloudflare" alt="TypeScript, React, Next.js, Vite, Tailwind, Node.js, PostgreSQL, Supabase, Prisma, Swift, GitHub Actions, Vercel, and Cloudflare" />
+</p>
+
+| Layer | Tools I reach for |
+|---|---|
+| **Frontend** | TypeScript, React, Next.js, Vite, Tailwind, React Hook Form, TanStack Query |
+| **Backend** | Node.js, PostgreSQL, Supabase, Prisma, REST APIs |
+| **Mobile** | Swift, SwiftUI, iOS, macOS |
+| **Infra / delivery** | GitHub Actions, Vercel, Railway, Cloudflare, CI/CD, release workflows |
+| **Data / workflows** | Scraping, ingestion, dashboards, admin tools, data views, automation, operational systems |
+| **Product surfaces** | Booking flows, cancellation/refund workflows, financial products, forms, internal tools, customer-facing experiences |
 
 ---
 
