@@ -1,7 +1,5 @@
-<h1 align="center">Connor Adams</h1>
-
 <p align="center">
-  <strong>Product engineer building full-stack systems, polished interfaces, automation, and tools that remove operational pain.</strong>
+  <img src="./assets/hero.svg" alt="Connor Adams — product engineer building polished interfaces, full-stack systems, automation, and tools that remove operational pain." />
 </p>
 
 <p align="center">
@@ -24,9 +22,13 @@
 
 ---
 
-I work close to the product, find the real failure mode, and build the system that prevents the same problem from coming back.
+<p align="center">
+  I work close to the product, find the real failure mode, and build the system that prevents the same problem from coming back.
+</p>
 
-I put a strong emphasis on the visual layer of a product: hierarchy, spacing, interaction polish, data clarity, and whether the thing actually feels good to use. I care about the full path from database shape to button placement.
+<p align="center">
+  I put a strong emphasis on the visual layer of a product: hierarchy, spacing, interaction polish, data clarity, and whether the thing actually feels good to use.
+</p>
 
 <p align="center">
   <img src="./assets/profile-dashboard.svg" alt="Connor Adams profile dashboard" />
