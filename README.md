@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Connor Adams — product engineer building polished interfaces, full-stack systems, automation, and tools that remove operational pain." />
+  <a href="#featured-work">
+    <img src="./assets/hero.svg" alt="Connor Adams — product engineer building polished interfaces, full-stack systems, automation, and tools that remove operational pain." />
+  </a>
 </p>
 
 <p align="center">
@@ -17,7 +19,9 @@
 </p>
 
 <p align="center">
-  <img src="./assets/product-craft.svg" alt="Product craft dashboard" />
+  <a href="#core-lanes">
+    <img src="./assets/product-craft.svg" alt="Product craft dashboard" />
+  </a>
 </p>
 
 ---
@@ -31,7 +35,9 @@
 </p>
 
 <p align="center">
-  <img src="./assets/profile-dashboard.svg" alt="Connor Adams profile dashboard" />
+  <a href="#core-lanes">
+    <img src="./assets/profile-dashboard.svg" alt="Connor Adams profile dashboard" />
+  </a>
 </p>
 
 ## Core lanes
@@ -48,7 +54,9 @@
 ## Featured work
 
 <p align="center">
-  <img src="./assets/featured-work.svg" alt="Featured work: Cashflow, Rainbot, Oakville BBQ, Garmin/Data" />
+  <a href="https://github.com/Connor-Adams/cashflow">
+    <img src="./assets/featured-work.svg" alt="Featured work: Cashflow, Rainbot, Oakville BBQ, Garmin/Data" />
+  </a>
 </p>
 
 <p align="center">
@@ -61,7 +69,9 @@
 ## Build loop
 
 <p align="center">
-  <img src="./assets/build-loop.svg" alt="Build loop: understand, design, ship, instrument, refine" />
+  <a href="#activity">
+    <img src="./assets/build-loop.svg" alt="Build loop: understand, design, ship, instrument, refine" />
+  </a>
 </p>
 
 ## Stack
@@ -87,5 +97,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/signature-footer.svg" alt="Operating philosophy: build the root fix, make products clearer, and make systems explain themselves." />
+  <a href="#featured-work">
+    <img src="./assets/signature-footer.svg" alt="Operating philosophy: build the root fix, make products clearer, and make systems explain themselves." />
+  </a>
 </p>
