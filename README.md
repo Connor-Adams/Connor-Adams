@@ -10,21 +10,17 @@
 </p>
 
 <p align="center">
-  <img src="./assets/profile-strip.svg" alt="Product engineer, visual product craft, full-stack systems, building Cashflow." />
+  <img src="./assets/profile-strip.svg" alt="Product engineer, visual product craft, full-stack systems, automation and developer experience." />
 </p>
 
 <p align="center">
-  <img src="./assets/product-craft.svg" alt="Product craft dashboard" />
-</p>
-
-<p align="center">
-  I work close to the product, find the real failure mode, and build the system that prevents the same problem from coming back.
+  I work close to the product, find the real failure mode, and build systems that prevent the same problem from coming back.
   <br />
   I care about hierarchy, spacing, interaction polish, data clarity, and whether the thing actually feels good to use.
 </p>
 
 <p align="center">
-  <img src="./assets/profile-dashboard.svg" alt="Connor Adams profile dashboard" />
+  <img src="./assets/product-craft.svg" alt="Product craft dashboard" />
 </p>
 
 <p align="center">
@@ -59,10 +55,6 @@
 </table>
 
 <p align="center">
-  <img src="./assets/section-build-loop.svg" alt="Build loop section" />
-</p>
-
-<p align="center">
   <img src="./assets/build-loop.svg" alt="Build loop: understand, design, ship, instrument, refine" />
 </p>
 
@@ -71,15 +63,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/section-activity.svg" alt="Activity section" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Connor-Adams&hide_border=true&theme=github-compact&height=260" alt="Connor Adams GitHub activity graph" />
-</p>
-
-<p align="center">
-  Product engineering with high ownership · Polished interfaces · AI-assisted internal tooling · Personal finance systems · Health/data visualization · Developer experience · Clean infrastructure
 </p>
 
 <p align="center">
