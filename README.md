@@ -50,44 +50,26 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Connor-Adams/cashflow"><strong>Cashflow</strong></a>
-      <br />
-      <span>Personal finance product exploration with a strong focus on clarity, hierarchy, and useful finance workflows.</span>
-      <br /><br />
-      <a href="https://github.com/Connor-Adams/cashflow"><img src="https://img.shields.io/badge/Open-project-10B981?style=for-the-badge" /></a>
-      <img src="https://img.shields.io/badge/React-111827?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Product%20UI-111827?style=for-the-badge" />
+      <a href="https://github.com/Connor-Adams/cashflow">
+        <img src="./assets/project-cashflow.svg" alt="Cashflow project card" />
+      </a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Connor-Adams/rainbot"><strong>Rainbot</strong></a>
-      <br />
-      <span>Discord voice/audio orchestration system with a TypeScript monorepo, worker architecture, CI/CD, and infra work.</span>
-      <br /><br />
-      <a href="https://github.com/Connor-Adams/rainbot"><img src="https://img.shields.io/badge/Open-project-7C3AED?style=for-the-badge" /></a>
-      <img src="https://img.shields.io/badge/Monorepo-111827?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Audio-111827?style=for-the-badge" />
+      <a href="https://github.com/Connor-Adams/rainbot">
+        <img src="./assets/project-rainbot.svg" alt="Rainbot project card" />
+      </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <br />
-      <a href="https://github.com/Connor-Adams/OkavilleBBQ-site"><strong>Oakville BBQ</strong></a>
-      <br />
-      <span>SEO-focused site for a real local business, with attention to presentation, polish, and conversion clarity.</span>
-      <br /><br />
-      <a href="https://github.com/Connor-Adams/OkavilleBBQ-site"><img src="https://img.shields.io/badge/Open-project-F59E0B?style=for-the-badge" /></a>
-      <img src="https://img.shields.io/badge/Vite-111827?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/SEO-111827?style=for-the-badge" />
+      <a href="https://github.com/Connor-Adams/OkavilleBBQ-site">
+        <img src="./assets/project-oakville-bbq.svg" alt="Oakville BBQ project card" />
+      </a>
     </td>
     <td width="50%" valign="top">
-      <br />
-      <a href="https://github.com/Connor-Adams/garmin"><strong>Garmin / Data</strong></a>
-      <br />
-      <span>Exploring better ways to turn raw health, fitness, glucose, and activity signals into readable product surfaces.</span>
-      <br /><br />
-      <a href="https://github.com/Connor-Adams/garmin"><img src="https://img.shields.io/badge/Open-project-38BDF8?style=for-the-badge" /></a>
-      <img src="https://img.shields.io/badge/Data-111827?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Dashboards-111827?style=for-the-badge" />
+      <a href="https://github.com/Connor-Adams/garmin">
+        <img src="./assets/project-garmin-data.svg" alt="Garmin/Data project card" />
+      </a>
     </td>
   </tr>
 </table>
