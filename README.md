@@ -76,7 +76,3 @@ Make the product easier to operate.
 Make the next bug less likely.
 
 Make the system explain itself.
-
----
-
-![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Connor-Adams&show_icons=true&hide_title=true&hide_border=true)
