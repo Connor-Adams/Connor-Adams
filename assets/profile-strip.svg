@@ -1,6 +1,6 @@
 <svg width="920" height="92" viewBox="0 0 920 92" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Profile focus strip</title>
-  <desc id="desc">A uniform strip showing focus areas: product engineer, visual product craft, full-stack systems, and cashflow.</desc>
+  <desc id="desc">A uniform strip showing focus areas: product engineering, visual product craft, full-stack systems, and automation.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="920" y2="92" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0B1020"/>
@@ -16,13 +16,13 @@
   <rect width="920" height="92" rx="24" fill="url(#bg)"/>
   <rect x="1" y="1" width="918" height="90" rx="23" stroke="url(#stroke)" opacity="0.72"/>
   <g font-family="Inter, ui-sans-serif, system-ui" font-size="13" font-weight="900">
-    <rect x="32" y="27" width="176" height="38" rx="19" fill="#0A66C2" opacity="0.92"/>
-    <text x="120" y="51" text-anchor="middle" fill="#F8FAFC">PRODUCT ENGINEER</text>
-    <rect x="228" y="27" width="210" height="38" rx="19" fill="#F59E0B" opacity="0.95"/>
-    <text x="333" y="51" text-anchor="middle" fill="#111827">VISUAL PRODUCT CRAFT</text>
-    <rect x="458" y="27" width="204" height="38" rx="19" fill="#7C3AED" opacity="0.95"/>
-    <text x="560" y="51" text-anchor="middle" fill="#F8FAFC">FULL-STACK SYSTEMS</text>
-    <rect x="682" y="27" width="206" height="38" rx="19" fill="#10B981" opacity="0.95"/>
-    <text x="785" y="51" text-anchor="middle" fill="#052E16">BUILDING CASHFLOW</text>
+    <rect x="35" y="27" width="180" height="38" rx="19" fill="#0A66C2" opacity="0.92"/>
+    <text x="125" y="51" text-anchor="middle" fill="#F8FAFC">PRODUCT ENGINEER</text>
+    <rect x="235" y="27" width="210" height="38" rx="19" fill="#F59E0B" opacity="0.95"/>
+    <text x="340" y="51" text-anchor="middle" fill="#111827">VISUAL PRODUCT CRAFT</text>
+    <rect x="465" y="27" width="204" height="38" rx="19" fill="#7C3AED" opacity="0.95"/>
+    <text x="567" y="51" text-anchor="middle" fill="#F8FAFC">FULL-STACK SYSTEMS</text>
+    <rect x="689" y="27" width="196" height="38" rx="19" fill="#10B981" opacity="0.95"/>
+    <text x="787" y="51" text-anchor="middle" fill="#052E16">AUTOMATION + DX</text>
   </g>
 </svg>
