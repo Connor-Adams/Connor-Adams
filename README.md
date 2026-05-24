@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-showcase.svg" alt="Connor Adams — design-focused product engineer portfolio showcase" />
+  <img src="./assets/profile-showcase-v2.svg" alt="Connor Adams — design-focused product engineer portfolio showcase" />
 </p>
 
 <p align="center">
