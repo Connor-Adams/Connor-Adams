@@ -17,6 +17,10 @@
   <img src="https://img.shields.io/badge/Building-Cashflow-10B981?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="./assets/profile-dashboard.svg" alt="Connor Adams profile dashboard" />
+</p>
+
 ---
 
 I work close to the product, find the real failure mode, and build the system that prevents the same problem from coming back.
@@ -86,16 +90,13 @@ My favorite work sits where product, engineering, operations, and automation ove
 
 TypeScript, React, Node.js, Swift, SwiftUI, PostgreSQL, Supabase, Prisma, Tailwind, Next.js, Vite, GitHub Actions, Railway, Vercel, Cloudflare.
 
-## Dashboard
+## Live-ish widgets
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Connor-Adams&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Connor-Adams&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Connor-Adams&hide_border=true&theme=github-compact&height=260" />
-</p>
+> If this card disappears, it is the external widget host being flaky. The dashboard above is local to this repo and should stay stable.
 
 ## Current interests
 
