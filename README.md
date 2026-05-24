@@ -34,59 +34,27 @@ I put a strong emphasis on the visual layer of a product: hierarchy, spacing, in
 
 ## Core lanes
 
-| Area | What I like building |
-|---|---|
-| Product engineering | Full-stack features, workflow systems, customer-facing product surfaces |
-| Visual product craft | Clear hierarchy, polished UI, tasteful interactions, useful data views |
-| Internal tools | Admin flows, operational automation, dashboards, data pipelines |
-| Developer experience | Clean repos, CI/CD, deployment workflows, typed APIs, sane local setup |
-| Mobile | iOS/macOS apps with Swift and SwiftUI |
-| Experiments | Discord voice/audio, LLM tooling, personal finance, health data visualization |
+<p align="center">
+  <img src="https://img.shields.io/badge/Product%20engineering-Full--stack%20features-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Visual%20craft-Polished%20interfaces-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Internal%20tools-Ops%20automation-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/DX-CI%2FCD%20%2B%20typed%20APIs-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mobile-SwiftUI-F97316?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experiments-LLMs%20%2B%20audio-38BDF8?style=flat-square" />
+</p>
 
 ## Featured work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Connor-Adams/cashflow">Cashflow</a></h3>
-      <p>Personal finance and cashflow product exploration.</p>
-      <ul>
-        <li>TypeScript + React</li>
-        <li>Product-focused UI</li>
-        <li>Visual emphasis on clarity, hierarchy, and useful finance workflows</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Connor-Adams/rainbot">Rainbot</a></h3>
-      <p>Discord bot monorepo for voice, audio workers, soundboard behavior, and orchestration.</p>
-      <ul>
-        <li>TypeScript monorepo</li>
-        <li>Worker/orchestrator architecture</li>
-        <li>Discord voice, audio pipelines, Railway, Redis/Postgres, CI/CD</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Connor-Adams/OkavilleBBQ-site">Oakville BBQ</a></h3>
-      <p>Marketing site for a local catering business.</p>
-      <ul>
-        <li>Vite + React</li>
-        <li>SEO-focused SPA setup</li>
-        <li>Visual polish for a real-world business website</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Connor-Adams/garmin">Garmin/Data</a></h3>
-      <p>Exploring better ways to visualize personal health, fitness, glucose, and activity data.</p>
-      <ul>
-        <li>Garmin data</li>
-        <li>Aggregation and correlation ideas</li>
-        <li>Turning raw signals into readable product surfaces</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/featured-work.svg" alt="Featured work: Cashflow, Rainbot, Oakville BBQ, Garmin/Data" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Connor-Adams/cashflow"><strong>Cashflow</strong></a> ·
+  <a href="https://github.com/Connor-Adams/rainbot"><strong>Rainbot</strong></a> ·
+  <a href="https://github.com/Connor-Adams/OkavilleBBQ-site"><strong>Oakville BBQ</strong></a> ·
+  <a href="https://github.com/Connor-Adams/garmin"><strong>Garmin/Data</strong></a>
+</p>
 
 ## Build loop
 
@@ -96,11 +64,13 @@ I put a strong emphasis on the visual layer of a product: hierarchy, spacing, in
 
 ## Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nextjs,swift,postgres,supabase,prisma,tailwind,vite,githubactions,vercel,cloudflare" />
 </p>
 
-TypeScript, React, Node.js, Swift, SwiftUI, PostgreSQL, Supabase, Prisma, Tailwind, Next.js, Vite, GitHub Actions, Railway, Vercel, Cloudflare.
+<p align="center">
+  TypeScript · React · Node.js · Swift · SwiftUI · PostgreSQL · Supabase · Prisma · Tailwind · Next.js · Vite · GitHub Actions · Railway · Vercel · Cloudflare
+</p>
 
 ## Activity
 
@@ -110,16 +80,16 @@ TypeScript, React, Node.js, Swift, SwiftUI, PostgreSQL, Supabase, Prisma, Tailwi
 
 ## Current interests
 
-- Product engineering with high ownership
-- Polished interfaces and high-quality product feel
-- AI-assisted internal tooling
-- Personal finance systems
-- Health and data visualization
-- Developer experience and release automation
-- Clean infrastructure that does not make me hate my life
+<p align="center">
+  Product engineering with high ownership · Polished interfaces · AI-assisted internal tooling · Personal finance systems · Health/data visualization · Developer experience · Clean infrastructure
+</p>
 
 ## Operating philosophy
 
-> Build the root fix, not the band-aid.
+<p align="center">
+  <strong>Build the root fix, not the band-aid.</strong>
+</p>
 
-Make the product easier to operate. Make the interface easier to understand. Make the next bug less likely. Make the system explain itself.
+<p align="center">
+  Make the product easier to operate. Make the interface easier to understand. Make the next bug less likely. Make the system explain itself.
+</p>
