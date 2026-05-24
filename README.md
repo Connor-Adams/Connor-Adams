@@ -86,12 +86,6 @@
   Product engineering with high ownership · Polished interfaces · AI-assisted internal tooling · Personal finance systems · Health/data visualization · Developer experience · Clean infrastructure
 </p>
 
-## Operating philosophy
-
 <p align="center">
-  <strong>Build the root fix, not the band-aid.</strong>
-</p>
-
-<p align="center">
-  Make the product easier to operate. Make the interface easier to understand. Make the next bug less likely. Make the system explain itself.
+  <img src="./assets/signature-footer.svg" alt="Operating philosophy: build the root fix, make products clearer, and make systems explain themselves." />
 </p>
