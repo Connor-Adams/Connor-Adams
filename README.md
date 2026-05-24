@@ -90,13 +90,11 @@ My favorite work sits where product, engineering, operations, and automation ove
 
 TypeScript, React, Node.js, Swift, SwiftUI, PostgreSQL, Supabase, Prisma, Tailwind, Next.js, Vite, GitHub Actions, Railway, Vercel, Cloudflare.
 
-## Live-ish widgets
+## Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Connor-Adams&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Connor-Adams&hide_border=true&theme=github-compact&height=260" alt="Connor Adams GitHub activity graph" />
 </p>
-
-> If this card disappears, it is the external widget host being flaky. The dashboard above is local to this repo and should stay stable.
 
 ## Current interests
 
