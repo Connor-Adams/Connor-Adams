@@ -1,6 +1,21 @@
-# Connor Adams
+<h1 align="center">Connor Adams</h1>
 
-**Product engineer building polished interfaces, durable systems, and automation that removes operational pain.**
+<p align="center">
+  <strong>Product engineer building polished interfaces, durable systems, and automation that removes operational pain.</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Connor-Adams/Personal-Website"><strong>Personal site</strong></a> ·
+  <a href="#selected-work"><strong>Selected work</strong></a> ·
+  <a href="#stack"><strong>Stack</strong></a> ·
+  <a href="#how-i-like-to-build"><strong>Build style</strong></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Product%20Engineer-TypeScript%20%2B%20Swift-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Product%20Craft-UI%20%2B%20Systems-5b21b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Root%20Fixes-047857?style=flat-square" />
+</p>
 
 I work across the full product surface: frontend, backend, data, infrastructure, internal tools, and the small design details that make software feel calm instead of chaotic.
 
@@ -8,17 +23,17 @@ My default mode is to get close to the product, understand the real failure mode
 
 I care about the full path from database shape to button placement: product clarity, visual hierarchy, interaction polish, data quality, and whether the thing actually feels good to use.
 
-[**Personal site**](https://github.com/Connor-Adams/Personal-Website) · [**Selected work**](#selected-work) · [**Stack**](#stack)
-
 ---
 
 ## What I am good at
 
-- **Owning messy product problems end-to-end** — from user-facing UI to backend workflows, operational tooling, and release paths.
-- **Turning recurring pain into systems** — automations, internal tools, guardrails, dashboards, and workflows that reduce repeat manual work.
-- **Building product surfaces with taste** — clear hierarchy, useful data views, strong form flows, polished interactions, and interfaces that feel obvious.
-- **Learning unfamiliar systems deeply** — understanding the model underneath before shipping changes that matter.
-- **Shipping across stacks** — TypeScript/React/Node, PostgreSQL/Supabase/Prisma, Swift/SwiftUI, CI/CD, cloud deployment, and data-heavy workflows.
+| Strength | What that looks like in practice |
+|---|---|
+| **End-to-end product ownership** | User-facing UI, backend workflows, operational tooling, data shape, and release paths. |
+| **Systems thinking** | Turning recurring pain into automations, guardrails, dashboards, and workflows. |
+| **Product taste** | Clear hierarchy, useful data views, strong form flows, polished interactions, and calm interfaces. |
+| **Deep system learning** | Understanding the model underneath before shipping changes that matter. |
+| **Cross-stack shipping** | TypeScript/React/Node, PostgreSQL/Supabase/Prisma, Swift/SwiftUI, CI/CD, cloud deployment, and data-heavy workflows. |
 
 ---
 
@@ -66,12 +81,14 @@ I care about the full path from database shape to button placement: product clar
 
 ## How I like to build
 
-1. **Understand the pain** — find the real failure mode, not just the visible bug.
-2. **Model the system** — understand the data, state, constraints, and operational edge cases.
-3. **Design the path** — make the product obvious, useful, and hard to misuse.
-4. **Ship the slice** — deliver something real, small enough to validate, and polished enough to trust.
-5. **Harden the system** — instrument it, automate the painful parts, and reduce repeat failure.
-6. **Refine the feel** — improve the interface until it is clear, fast, and calm.
+| Step | Principle |
+|---|---|
+| **1. Understand the pain** | Find the real failure mode, not just the visible bug. |
+| **2. Model the system** | Understand the data, state, constraints, and operational edge cases. |
+| **3. Design the path** | Make the product obvious, useful, and hard to misuse. |
+| **4. Ship the slice** | Deliver something real, small enough to validate, and polished enough to trust. |
+| **5. Harden the system** | Instrument it, automate the painful parts, and reduce repeat failure. |
+| **6. Refine the feel** | Improve the interface until it is clear, fast, and calm. |
 
 ---
 
@@ -84,6 +101,14 @@ I care about the full path from database shape to button placement: product clar
 - Developer experience and release automation
 - Operational tools that make teams faster
 - Polished interfaces that make complex systems feel simple
+
+---
+
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Connor-Adams&hide_border=true&theme=github-compact&height=260" alt="Connor Adams GitHub activity graph" />
+</p>
 
 ---
 
