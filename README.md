@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="#featured-work">
-    <img src="./assets/hero.svg" alt="Connor Adams — product engineer building polished interfaces, full-stack systems, automation, and tools that remove operational pain." />
-  </a>
+  <img src="./assets/hero.svg" alt="Connor Adams — product engineer building polished interfaces, full-stack systems, automation, and tools that remove operational pain." />
 </p>
 
 <p align="center">
@@ -19,9 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="#core-lanes">
-    <img src="./assets/product-craft.svg" alt="Product craft dashboard" />
-  </a>
+  <img src="./assets/product-craft.svg" alt="Product craft dashboard" />
 </p>
 
 ---
@@ -35,9 +31,7 @@
 </p>
 
 <p align="center">
-  <a href="#core-lanes">
-    <img src="./assets/profile-dashboard.svg" alt="Connor Adams profile dashboard" />
-  </a>
+  <img src="./assets/profile-dashboard.svg" alt="Connor Adams profile dashboard" />
 </p>
 
 ## Core lanes
@@ -53,25 +47,55 @@
 
 ## Featured work
 
-<p align="center">
-  <a href="https://github.com/Connor-Adams/cashflow">
-    <img src="./assets/featured-work.svg" alt="Featured work: Cashflow, Rainbot, Oakville BBQ, Garmin/Data" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Connor-Adams/cashflow"><strong>Cashflow</strong></a> ·
-  <a href="https://github.com/Connor-Adams/rainbot"><strong>Rainbot</strong></a> ·
-  <a href="https://github.com/Connor-Adams/OkavilleBBQ-site"><strong>Oakville BBQ</strong></a> ·
-  <a href="https://github.com/Connor-Adams/garmin"><strong>Garmin/Data</strong></a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Connor-Adams/cashflow"><strong>Cashflow</strong></a>
+      <br />
+      <span>Personal finance product exploration with a strong focus on clarity, hierarchy, and useful finance workflows.</span>
+      <br /><br />
+      <a href="https://github.com/Connor-Adams/cashflow"><img src="https://img.shields.io/badge/Open-project-10B981?style=for-the-badge" /></a>
+      <img src="https://img.shields.io/badge/React-111827?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Product%20UI-111827?style=for-the-badge" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Connor-Adams/rainbot"><strong>Rainbot</strong></a>
+      <br />
+      <span>Discord voice/audio orchestration system with a TypeScript monorepo, worker architecture, CI/CD, and infra work.</span>
+      <br /><br />
+      <a href="https://github.com/Connor-Adams/rainbot"><img src="https://img.shields.io/badge/Open-project-7C3AED?style=for-the-badge" /></a>
+      <img src="https://img.shields.io/badge/Monorepo-111827?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Audio-111827?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br />
+      <a href="https://github.com/Connor-Adams/OkavilleBBQ-site"><strong>Oakville BBQ</strong></a>
+      <br />
+      <span>SEO-focused site for a real local business, with attention to presentation, polish, and conversion clarity.</span>
+      <br /><br />
+      <a href="https://github.com/Connor-Adams/OkavilleBBQ-site"><img src="https://img.shields.io/badge/Open-project-F59E0B?style=for-the-badge" /></a>
+      <img src="https://img.shields.io/badge/Vite-111827?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/SEO-111827?style=for-the-badge" />
+    </td>
+    <td width="50%" valign="top">
+      <br />
+      <a href="https://github.com/Connor-Adams/garmin"><strong>Garmin / Data</strong></a>
+      <br />
+      <span>Exploring better ways to turn raw health, fitness, glucose, and activity signals into readable product surfaces.</span>
+      <br /><br />
+      <a href="https://github.com/Connor-Adams/garmin"><img src="https://img.shields.io/badge/Open-project-38BDF8?style=for-the-badge" /></a>
+      <img src="https://img.shields.io/badge/Data-111827?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Dashboards-111827?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
 ## Build loop
 
 <p align="center">
-  <a href="#activity">
-    <img src="./assets/build-loop.svg" alt="Build loop: understand, design, ship, instrument, refine" />
-  </a>
+  <img src="./assets/build-loop.svg" alt="Build loop: understand, design, ship, instrument, refine" />
 </p>
 
 ## Stack
@@ -97,7 +121,5 @@
 </p>
 
 <p align="center">
-  <a href="#featured-work">
-    <img src="./assets/signature-footer.svg" alt="Operating philosophy: build the root fix, make products clearer, and make systems explain themselves." />
-  </a>
+  <img src="./assets/signature-footer.svg" alt="Operating philosophy: build the root fix, make products clearer, and make systems explain themselves." />
 </p>
