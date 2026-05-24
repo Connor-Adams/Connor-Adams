@@ -61,7 +61,11 @@ My best work tends to live in the messy middle: customer pain, operational frict
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,nodejs,postgres,supabase,prisma,swift,githubactions,vercel,cloudflare" alt="TypeScript, React, Next.js, Vite, Tailwind, Node.js, PostgreSQL, Supabase, Prisma, Swift, GitHub Actions, Vercel, and Cloudflare" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,html,css,nodejs,postgres,supabase,prisma,mysql,sqlite,swift,py,github,githubactions,git,vercel,cloudflare,docker,vscode" alt="TypeScript, JavaScript, React, Next.js, Vite, Tailwind, HTML, CSS, Node.js, PostgreSQL, Supabase, Prisma, MySQL, SQLite, Swift, Python, GitHub, GitHub Actions, Git, Vercel, Cloudflare, Docker, and VS Code" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm,bash,linux,apple,figma,md" alt="npm, Yarn, pnpm, Bash, Linux, Apple, Figma, and Markdown" />
 </p>
 
 **Frontend:** TypeScript, React, Next.js, Vite, Tailwind, React Hook Form, TanStack Query  
