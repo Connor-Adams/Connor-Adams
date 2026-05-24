@@ -25,6 +25,10 @@ My best work tends to live in the messy middle: customer pain, operational frict
 
 ## At a glance
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres,swift,githubactions,figma" alt="Product engineering, React, Node.js, PostgreSQL, Swift, GitHub Actions, and Figma" />
+</p>
+
 - **Product-minded engineer** comfortable owning features from UI to data model to deployment.
 - **Design-aware builder** who cares about hierarchy, interaction polish, and how a product feels in use.
 - **Systems thinker** focused on root causes, workflow design, and reducing repeat manual work.
@@ -34,6 +38,10 @@ My best work tends to live in the messy middle: customer pain, operational frict
 ---
 
 ## Selected work
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,githubactions,vercel,swift,postgres" alt="React, TypeScript, Node.js, GitHub Actions, Vercel, Swift, and PostgreSQL" />
+</p>
 
 | Project | Signal |
 |---|---|
@@ -46,6 +54,14 @@ My best work tends to live in the messy middle: customer pain, operational frict
 ---
 
 ## Background
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Product%20Engineering-frontend%20%2B%20backend-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Fintech-lending%20%2B%20cashflow-065f46?style=flat-square" />
+  <img src="https://img.shields.io/badge/Marketplace%20Ops-booking%20%2B%20refunds-4c1d95?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data-scraping%20%2B%20dashboards-1e3a8a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mobile-SwiftUI-b45309?style=flat-square" />
+</p>
 
 | Area | Experience |
 |---|---|
@@ -78,6 +94,13 @@ My best work tends to live in the messy middle: customer pain, operational frict
 
 ## Principles
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Understand-real%20failure%20mode-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Design-clear%20product%20path-5b21b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ship-polished%20slice-047857?style=flat-square" />
+  <img src="https://img.shields.io/badge/Harden-reduce%20repeat%20failure-b45309?style=flat-square" />
+</p>
+
 > Build the root fix, not the band-aid.
 
 I like to understand the real failure mode, model the system, design the path, ship a useful slice, then harden the workflow so the same problem is less likely to come back.
@@ -87,6 +110,13 @@ The goal is not just to make software work. It is to make it easier to operate, 
 ---
 
 ## Current interests
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20tooling-internal%20systems-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Personal%20finance-product%20systems-065f46?style=flat-square" />
+  <img src="https://img.shields.io/badge/Health%20data-signals%20%2B%20dashboards-1e3a8a?style=flat-square" />
+  <img src="https://img.shields.io/badge/DX-release%20automation-4c1d95?style=flat-square" />
+</p>
 
 - High-ownership product engineering
 - AI-assisted internal tooling and agentic development
