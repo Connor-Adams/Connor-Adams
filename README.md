@@ -57,6 +57,17 @@ Exploring better ways to visualize personal health, fitness, glucose, and activi
 
 TypeScript, React, Node.js, Swift, SwiftUI, PostgreSQL, Supabase, Prisma, Tailwind, Next.js, Vite, GitHub Actions, Railway, Vercel, Cloudflare.
 
+## Dashboard
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Connor-Adams&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Connor-Adams&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Connor-Adams&hide_border=true&theme=github-compact" />
+</p>
+
 ## Current interests
 
 - Product engineering
