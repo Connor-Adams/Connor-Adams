@@ -1,64 +1,60 @@
 <h1 align="center">Connor Adams</h1>
 
 <p align="center">
-  <strong>Product engineer building polished interfaces, durable systems, and automation that removes operational pain.</strong>
+  <strong>Product engineer · full-stack systems · product craft · automation</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Connor-Adams/Personal-Website"><strong>Personal site</strong></a> ·
-  <a href="#selected-work"><strong>Selected work</strong></a> ·
+  <a href="https://github.com/Connor-Adams/Personal-Website"><strong>Portfolio</strong></a> ·
+  <a href="#selected-work"><strong>Work</strong></a> ·
   <a href="#stack"><strong>Stack</strong></a> ·
-  <a href="#how-i-like-to-build"><strong>Build style</strong></a>
+  <a href="#principles"><strong>Principles</strong></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Product%20Engineer-TypeScript%20%2B%20Swift-0f172a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Product%20Craft-UI%20%2B%20Systems-5b21b6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Root%20Fixes-047857?style=flat-square" />
+  <img src="https://img.shields.io/badge/TypeScript-Product%20Engineering-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Swift-Mobile%20Product-312e81?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Root%20Cause%20Systems-047857?style=flat-square" />
 </p>
 
-I work across the full product surface: frontend, backend, data, infrastructure, internal tools, and the small design details that make software feel calm instead of chaotic.
+I build across the full product surface: frontend, backend, data, infrastructure, internal tools, and the small interface details that make software feel calm instead of chaotic.
 
-My default mode is to get close to the product, understand the real failure mode, and build the system that prevents the same problem from coming back.
-
-I care about the full path from database shape to button placement: product clarity, visual hierarchy, interaction polish, data quality, and whether the thing actually feels good to use.
+My best work tends to live in the messy middle: customer pain, operational friction, product edge cases, and systems that need to be made simpler without losing power.
 
 ---
 
-## What I am good at
+## At a glance
 
-| Strength | What that looks like in practice |
-|---|---|
-| **End-to-end product ownership** | User-facing UI, backend workflows, operational tooling, data shape, and release paths. |
-| **Systems thinking** | Turning recurring pain into automations, guardrails, dashboards, and workflows. |
-| **Product taste** | Clear hierarchy, useful data views, strong form flows, polished interactions, and calm interfaces. |
-| **Deep system learning** | Understanding the model underneath before shipping changes that matter. |
-| **Cross-stack shipping** | TypeScript/React/Node, PostgreSQL/Supabase/Prisma, Swift/SwiftUI, CI/CD, cloud deployment, and data-heavy workflows. |
-
----
-
-## Background
-
-| Area | What I have built |
-|---|---|
-| **Product engineering** | Customer-facing and operational product features across frontend, backend, and internal systems. |
-| **Travel / marketplace ops** | Booking, cancellation, refund, review-ingestion, and operational workflows for a high-end vacation-rental product environment. |
-| **Fintech** | iOS app and TypeScript backend work for lending/finance workflows, including full product buildout from early-stage requirements. |
-| **Data systems** | Scrapers, cataloging workflows, schema design, APIs, personal analytics, health/activity data, and dashboards. |
-| **Mobile** | SwiftUI apps for iOS/macOS, with attention to product feel and end-user flows. |
-| **Automation / DX** | CI/CD, typed APIs, repo cleanup, release workflows, local setup, deployment tooling, and systems that make future work easier. |
+- **Product-minded engineer** comfortable owning features from UI to data model to deployment.
+- **Design-aware builder** who cares about hierarchy, interaction polish, and how a product feels in use.
+- **Systems thinker** focused on root causes, workflow design, and reducing repeat manual work.
+- **Cross-stack generalist** with TypeScript/React/Node, PostgreSQL/Supabase/Prisma, Swift/SwiftUI, and CI/CD experience.
+- **Comfortable in ambiguous domains** including fintech, travel/marketplace operations, internal tools, scraping/data systems, and personal analytics.
 
 ---
 
 ## Selected work
 
-| Project | What it is | Why it matters |
-|---|---|---|
-| [**Personal Website**](https://github.com/Connor-Adams/Personal-Website) | Personal portfolio site for presenting my work, product taste, and engineering story. | The fuller version of this profile: more room for visual polish, narrative, and deeper project context. |
-| [**Rainbot**](https://github.com/Connor-Adams/rainbot) | Discord voice/audio bot monorepo with worker/orchestrator architecture. | Systems design, audio pipelines, infra, CI/CD, and weird-but-real product experimentation. |
-| [**Cashflow**](https://github.com/Connor-Adams/cashflow) | Personal finance and cashflow product exploration. | Product UI, financial workflows, and clarity around money movement. |
-| [**Oakville BBQ**](https://github.com/Connor-Adams/OkavilleBBQ-site) | Marketing site for a local catering business. | Real-world web presence, SEO, polish, and business-facing presentation. |
-| [**Garmin / Data**](https://github.com/Connor-Adams/garmin) | Personal data and health/fitness visualization experiments. | Turning raw signals into readable, useful product surfaces. |
+| Project | Signal |
+|---|---|
+| [**Portfolio / Personal Website**](https://github.com/Connor-Adams/Personal-Website) | A fuller place for visual polish, project narrative, and product taste beyond a GitHub README. |
+| [**Rainbot**](https://github.com/Connor-Adams/rainbot) | Discord voice/audio system with worker/orchestrator architecture, monorepo structure, infra, and CI/CD. |
+| [**Cashflow**](https://github.com/Connor-Adams/cashflow) | Personal finance product exploration focused on UI clarity and financial workflows. |
+| [**Oakville BBQ**](https://github.com/Connor-Adams/OkavilleBBQ-site) | Real-world business website with SEO, presentation, and conversion-oriented polish. |
+| [**Garmin / Data**](https://github.com/Connor-Adams/garmin) | Personal data experiments turning health, fitness, glucose, and activity signals into readable surfaces. |
+
+---
+
+## Background
+
+| Area | Experience |
+|---|---|
+| **Product engineering** | Customer-facing and operational product features across frontend, backend, and internal systems. |
+| **Travel / marketplace ops** | Booking, cancellation, refund, review-ingestion, and operational workflows in a high-end vacation-rental product environment. |
+| **Fintech** | iOS app and TypeScript backend work for lending/finance workflows, including early-stage product buildout. |
+| **Data systems** | Scrapers, cataloging workflows, schema design, APIs, personal analytics, health/activity data, and dashboards. |
+| **Mobile** | SwiftUI apps for iOS/macOS with attention to product feel and end-user flows. |
+| **Automation / DX** | CI/CD, typed APIs, repo cleanup, release workflows, local setup, deployment tooling, and systems that make future work easier. |
 
 ---
 
@@ -68,27 +64,21 @@ I care about the full path from database shape to button placement: product clar
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind,nodejs,postgres,supabase,prisma,swift,githubactions,vercel,cloudflare" alt="TypeScript, React, Next.js, Vite, Tailwind, Node.js, PostgreSQL, Supabase, Prisma, Swift, GitHub Actions, Vercel, and Cloudflare" />
 </p>
 
-| Layer | Tools I reach for |
-|---|---|
-| **Frontend** | TypeScript, React, Next.js, Vite, Tailwind, React Hook Form, TanStack Query |
-| **Backend** | Node.js, PostgreSQL, Supabase, Prisma, REST APIs |
-| **Mobile** | Swift, SwiftUI, iOS, macOS |
-| **Infra / delivery** | GitHub Actions, Vercel, Railway, Cloudflare, CI/CD, release workflows |
-| **Data / workflows** | Scraping, ingestion, dashboards, admin tools, data views, automation, operational systems |
-| **Product surfaces** | Booking flows, cancellation/refund workflows, financial products, forms, internal tools, customer-facing experiences |
+**Frontend:** TypeScript, React, Next.js, Vite, Tailwind, React Hook Form, TanStack Query  
+**Backend:** Node.js, PostgreSQL, Supabase, Prisma, REST APIs  
+**Mobile:** Swift, SwiftUI, iOS, macOS  
+**Delivery:** GitHub Actions, Vercel, Railway, Cloudflare, CI/CD, release workflows  
+**Product surfaces:** booking flows, cancellation/refund workflows, financial products, forms, admin tools, dashboards, data views, customer-facing workflows
 
 ---
 
-## How I like to build
+## Principles
 
-| Step | Principle |
-|---|---|
-| **1. Understand the pain** | Find the real failure mode, not just the visible bug. |
-| **2. Model the system** | Understand the data, state, constraints, and operational edge cases. |
-| **3. Design the path** | Make the product obvious, useful, and hard to misuse. |
-| **4. Ship the slice** | Deliver something real, small enough to validate, and polished enough to trust. |
-| **5. Harden the system** | Instrument it, automate the painful parts, and reduce repeat failure. |
-| **6. Refine the feel** | Improve the interface until it is clear, fast, and calm. |
+> Build the root fix, not the band-aid.
+
+I like to understand the real failure mode, model the system, design the path, ship a useful slice, then harden the workflow so the same problem is less likely to come back.
+
+The goal is not just to make software work. It is to make it easier to operate, easier to understand, and harder to break.
 
 ---
 
@@ -100,28 +90,22 @@ I care about the full path from database shape to button placement: product clar
 - Health, glucose, activity, and personal data visualization
 - Developer experience and release automation
 - Operational tools that make teams faster
-- Polished interfaces that make complex systems feel simple
+- Interfaces that make complex systems feel simple
 
 ---
 
-## Activity
+<details>
+  <summary><strong>Activity</strong></summary>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Connor-Adams&hide_border=true&theme=github-compact&height=260" alt="Connor Adams GitHub activity graph" />
-</p>
-
----
-
-## Operating philosophy
-
-> Build the root fix, not the band-aid.
-
-Make the product easier to operate. Make the interface easier to understand. Make the next bug less likely. Make the system explain itself.
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Connor-Adams&hide_border=true&theme=github-compact&height=260" alt="Connor Adams GitHub activity graph" />
+  </p>
+</details>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/Connor-Adams/Personal-Website">Personal Website</a> ·
+  <a href="https://github.com/Connor-Adams/Personal-Website">Portfolio</a> ·
   <a href="https://github.com/Connor-Adams/rainbot">Rainbot</a> ·
   <a href="https://github.com/Connor-Adams/cashflow">Cashflow</a> ·
   <a href="https://github.com/Connor-Adams/OkavilleBBQ-site">Oakville BBQ</a> ·
