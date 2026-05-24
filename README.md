@@ -2,20 +2,34 @@
 
 **Product engineer building polished interfaces, durable systems, and automation that removes operational pain.**
 
-I like working close to the product, understanding the real failure mode, and building the system that prevents the same problem from coming back.
+I work across the full product surface: frontend, backend, data, infrastructure, internal tools, and the small design details that make software feel calm instead of chaotic.
+
+My default mode is to get close to the product, understand the real failure mode, and build the system that prevents the same problem from coming back.
 
 I care about the full path from database shape to button placement: product clarity, visual hierarchy, interaction polish, data quality, and whether the thing actually feels good to use.
 
 ---
 
-## Focus
+## What I am good at
 
-- **Product engineering** — customer-facing features, workflow systems, operational surfaces, and product infrastructure.
-- **Visual product craft** — hierarchy, spacing, interaction polish, useful data views, and clean product feel.
-- **Internal tools** — admin flows, automation, dashboards, ingestion jobs, and workflows that reduce manual effort.
-- **Developer experience** — clean repos, typed APIs, CI/CD, deployment workflows, and sane local setup.
-- **Mobile** — iOS/macOS apps with Swift and SwiftUI.
-- **Experiments** — personal finance, health data, Discord/audio systems, and AI-assisted tooling.
+- **Owning messy product problems end-to-end** — from user-facing UI to backend workflows, operational tooling, and release paths.
+- **Turning recurring pain into systems** — automations, internal tools, guardrails, dashboards, and workflows that reduce repeat manual work.
+- **Building product surfaces with taste** — clear hierarchy, useful data views, strong form flows, polished interactions, and interfaces that feel obvious.
+- **Learning unfamiliar systems deeply** — understanding the model underneath before shipping changes that matter.
+- **Shipping across stacks** — TypeScript/React/Node, PostgreSQL/Supabase/Prisma, Swift/SwiftUI, CI/CD, cloud deployment, and data-heavy workflows.
+
+---
+
+## Background
+
+| Area | What I have built |
+|---|---|
+| **Product engineering** | Customer-facing and operational product features across frontend, backend, and internal systems. |
+| **Travel / marketplace ops** | Booking, cancellation, refund, review-ingestion, and operational workflows for a high-end vacation-rental product environment. |
+| **Fintech** | iOS app and TypeScript backend work for lending/finance workflows, including full product buildout from early-stage requirements. |
+| **Data systems** | Scrapers, cataloging workflows, schema design, APIs, personal analytics, health/activity data, and dashboards. |
+| **Mobile** | SwiftUI apps for iOS/macOS, with attention to product feel and end-user flows. |
+| **Automation / DX** | CI/CD, typed APIs, repo cleanup, release workflows, local setup, deployment tooling, and systems that make future work easier. |
 
 ---
 
@@ -32,31 +46,34 @@ I care about the full path from database shape to button placement: product clar
 
 ## Stack
 
-**Frontend:** TypeScript, React, Next.js, Vite, Tailwind  
-**Backend:** Node.js, PostgreSQL, Supabase, Prisma  
-**Mobile:** Swift, SwiftUI  
-**Infra / delivery:** GitHub Actions, Vercel, Railway, Cloudflare  
-**Product surface area:** dashboards, forms, admin tools, data views, automation, customer-facing workflows
+**Frontend:** TypeScript, React, Next.js, Vite, Tailwind, React Hook Form, TanStack Query  
+**Backend:** Node.js, PostgreSQL, Supabase, Prisma, REST APIs  
+**Mobile:** Swift, SwiftUI, iOS, macOS  
+**Infra / delivery:** GitHub Actions, Vercel, Railway, Cloudflare, CI/CD, release workflows  
+**Data / workflows:** scraping, ingestion, dashboards, admin tools, data views, automation, operational systems  
+**Product surface area:** booking flows, cancellation/refund workflows, financial products, forms, internal tools, customer-facing experiences
 
 ---
 
 ## How I like to build
 
 1. **Understand the pain** — find the real failure mode, not just the visible bug.
-2. **Design the path** — make the product obvious, useful, and hard to misuse.
-3. **Ship the slice** — deliver something real, small enough to validate, and polished enough to trust.
-4. **Harden the system** — instrument it, automate the painful parts, and reduce repeat failure.
-5. **Refine the feel** — improve the interface until it is clear, fast, and calm.
+2. **Model the system** — understand the data, state, constraints, and operational edge cases.
+3. **Design the path** — make the product obvious, useful, and hard to misuse.
+4. **Ship the slice** — deliver something real, small enough to validate, and polished enough to trust.
+5. **Harden the system** — instrument it, automate the painful parts, and reduce repeat failure.
+6. **Refine the feel** — improve the interface until it is clear, fast, and calm.
 
 ---
 
 ## Current interests
 
 - High-ownership product engineering
-- AI-assisted internal tooling
+- AI-assisted internal tooling and agentic development
 - Personal finance systems
-- Health and data visualization
+- Health, glucose, activity, and personal data visualization
 - Developer experience and release automation
+- Operational tools that make teams faster
 - Polished interfaces that make complex systems feel simple
 
 ---
