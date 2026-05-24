@@ -8,6 +8,8 @@ My default mode is to get close to the product, understand the real failure mode
 
 I care about the full path from database shape to button placement: product clarity, visual hierarchy, interaction polish, data quality, and whether the thing actually feels good to use.
 
+[**Personal site**](https://github.com/Connor-Adams/Personal-Website) · [**Selected work**](#selected-work) · [**Stack**](#stack)
+
 ---
 
 ## What I am good at
@@ -37,6 +39,7 @@ I care about the full path from database shape to button placement: product clar
 
 | Project | What it is | Why it matters |
 |---|---|---|
+| [**Personal Website**](https://github.com/Connor-Adams/Personal-Website) | Personal portfolio site for presenting my work, product taste, and engineering story. | The fuller version of this profile: more room for visual polish, narrative, and deeper project context. |
 | [**Rainbot**](https://github.com/Connor-Adams/rainbot) | Discord voice/audio bot monorepo with worker/orchestrator architecture. | Systems design, audio pipelines, infra, CI/CD, and weird-but-real product experimentation. |
 | [**Cashflow**](https://github.com/Connor-Adams/cashflow) | Personal finance and cashflow product exploration. | Product UI, financial workflows, and clarity around money movement. |
 | [**Oakville BBQ**](https://github.com/Connor-Adams/OkavilleBBQ-site) | Marketing site for a local catering business. | Real-world web presence, SEO, polish, and business-facing presentation. |
@@ -87,6 +90,7 @@ Make the product easier to operate. Make the interface easier to understand. Mak
 ---
 
 <p align="center">
+  <a href="https://github.com/Connor-Adams/Personal-Website">Personal Website</a> ·
   <a href="https://github.com/Connor-Adams/rainbot">Rainbot</a> ·
   <a href="https://github.com/Connor-Adams/cashflow">Cashflow</a> ·
   <a href="https://github.com/Connor-Adams/OkavilleBBQ-site">Oakville BBQ</a> ·
