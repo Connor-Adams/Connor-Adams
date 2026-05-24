@@ -10,10 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Product%20Engineer-TypeScript%20%2B%20Swift-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Visual%20Taste-Product%20Craft-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Full--stack%20systems-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Building-Cashflow-10B981?style=for-the-badge" />
+  <img src="./assets/profile-strip.svg" alt="Product engineer, visual product craft, full-stack systems, building Cashflow." />
 </p>
 
 <p align="center">
@@ -32,17 +29,6 @@
 
 <p align="center">
   <img src="./assets/profile-dashboard.svg" alt="Connor Adams profile dashboard" />
-</p>
-
-## Core lanes
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Product%20engineering-Full--stack%20features-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Visual%20craft-Polished%20interfaces-F59E0B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Internal%20tools-Ops%20automation-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/DX-CI%2FCD%20%2B%20typed%20APIs-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mobile-SwiftUI-F97316?style=flat-square" />
-  <img src="https://img.shields.io/badge/Experiments-LLMs%20%2B%20audio-38BDF8?style=flat-square" />
 </p>
 
 ## Featured work
@@ -83,11 +69,7 @@
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nextjs,swift,postgres,supabase,prisma,tailwind,vite,githubactions,vercel,cloudflare" />
-</p>
-
-<p align="center">
-  TypeScript · React · Node.js · Swift · SwiftUI · PostgreSQL · Supabase · Prisma · Tailwind · Next.js · Vite · GitHub Actions · Railway · Vercel · Cloudflare
+  <img src="./assets/stack.svg" alt="Technology stack: TypeScript, React, Node.js, Swift, PostgreSQL, Supabase, Prisma, Tailwind, Next.js, Vite, GitHub Actions, Railway, Vercel, and Cloudflare." />
 </p>
 
 ## Activity
